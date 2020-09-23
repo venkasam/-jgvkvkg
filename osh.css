@@ -1,0 +1,30 @@
+
+h2 {
+    color: brown;
+
+}
+
+* {
+    border:solid;
+}
+
+h1 {
+    color:#442435;
+
+}
+
+
+.olk{
+background-color:white;
+display:flex;
+justify-content:space-between;
+}
+.pin{
+display:flex;
+flex-wrap:wrap;
+justify-content:space-evenly;
+
+
+}
+
+
